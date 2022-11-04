@@ -1,5 +1,15 @@
-# La Cuisine de Julie
+# La Cuisine de Julie 
+
+Screenshot 
+
+![Web capture la-cuisine-de-julie](https://user-images.githubusercontent.com/64944276/200082719-6a0116c8-3c2f-4d0b-a9a7-c061efc5506f.jpeg)
+
+
  <a href="https://la-cuisine-de-julie.netlify.app/" target="_blank">Check It Out</a>
+
+
+
+https://user-images.githubusercontent.com/64944276/200082666-f09e6722-e8ab-4b43-b416-3368526ea3d7.mp4
 
 
 
