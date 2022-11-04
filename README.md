@@ -1,11 +1,11 @@
-# La Cuisine de Julie 
+# La Cuisine de Julie  
+ <a href="https://la-cuisine-de-julie.netlify.app/" target="_blank">Check It Out</a>
 
 Screenshot 
 
 ![Web capture la-cuisine-de-julie](https://user-images.githubusercontent.com/64944276/200082719-6a0116c8-3c2f-4d0b-a9a7-c061efc5506f.jpeg)
 
 
- <a href="https://la-cuisine-de-julie.netlify.app/" target="_blank">Check It Out</a>
 
 
 
