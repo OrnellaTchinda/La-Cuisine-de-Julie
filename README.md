@@ -1,5 +1,5 @@
 # La Cuisine de Julie
- <a href="la-cuisine-de-julie.netlify.app" target="_blank">Check It Out</a>
+ <a href="[la-cuisine-de-julie.netlify.app](https://la-cuisine-de-julie.netlify.app/)" target="_blank">Check It Out</a>
 
 
 
